@@ -1,4 +1,4 @@
-No Toxic Zone
+# No Toxic Zone
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
