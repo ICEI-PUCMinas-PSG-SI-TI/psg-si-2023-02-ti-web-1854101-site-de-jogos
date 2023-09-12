@@ -9,6 +9,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Diogo Duarte Xavier
 * Lucas Guimarães Marques
 * Luiz Ribeiro
+* Henrique Gonçalves Sousa
 
 ## Professores responsáveis
 
