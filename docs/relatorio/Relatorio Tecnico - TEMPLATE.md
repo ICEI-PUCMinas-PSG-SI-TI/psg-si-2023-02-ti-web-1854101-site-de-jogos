@@ -119,6 +119,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 - Lucid
 - Vs code
 - Google Drive
+- Figma
 
 ## Wireframes
 
@@ -150,10 +151,6 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Conclusões
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+O principal objetivo deste projeto era estabelecer um site de informações que oferecesse aos usuários uma plataforma de fácil acesso para pesquisar e esclarecer suas dúvidas com base nas informações fornecidas. Durante o desenvolvimento, conseguimos realizar com êxito várias metas específicas. Implementamos um sistema de denúncia de usuários, possibilitando um ambiente mais seguro para a comunidade. Também oferecemos informações detalhadas sobre o conteúdo e os jogadores, além de organizar o conteúdo em categorias para simplificar a busca dos usuários. Além disso, disponibilizamos os requisitos mínimos para a execução de jogos em suas máquinas.Para trabalhos futuros estamos pensando em adicionar um chat onde os usuários que são amigos possam se comunicar.
 
 
