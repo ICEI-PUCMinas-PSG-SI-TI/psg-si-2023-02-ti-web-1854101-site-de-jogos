@@ -137,7 +137,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 ![Lista de Games](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/ed4c5342-4f60-4343-8643-c926300b7934)
 
 
--card
+-Card
 ![Card](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/a4eef944-982d-4109-b511-bd26e2837b9a)
 
 
