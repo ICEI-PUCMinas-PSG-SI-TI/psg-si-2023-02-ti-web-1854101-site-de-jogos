@@ -141,21 +141,11 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 ![Card](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/a4eef944-982d-4109-b511-bd26e2837b9a)
 
 
--Logo
-![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/5ad4dcdf-37bd-429d-ad72-060c0620e7a6)
-
-
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
+[mapa de navegação.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/files/12705759/mapa.de.navegacao.pdf)
 
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
-
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
 
 # Conclusões
 
