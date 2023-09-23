@@ -121,22 +121,25 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+-Home
+![Home](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/2cbaddfa-9acf-4b7b-bbbc-69fac3f9342f)
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Link para Wireframe](images/wireframe-example.png)
+
+-Cadastro
+![Cadastro](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/09b2bdd4-00cb-44d4-81a3-7938cfbc51ae)
+
+
+-Perfil
+![Perfil](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/e9f73458-6aae-4b83-83f8-6cfe5883d957)
+
+
+-Lista de Games
+![Lista de Games](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/ed4c5342-4f60-4343-8643-c926300b7934)
+
+
+-card
+![Card](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/a4eef944-982d-4109-b511-bd26e2837b9a)
+
 
 
 ## Mapa de navegação
