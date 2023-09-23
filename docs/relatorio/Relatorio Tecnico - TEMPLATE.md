@@ -60,7 +60,9 @@ Como objetivos específicos, podemos ressaltar:
 # Especificações do Projeto
 
 -Iremos utilizar o Visual Studio Code como ferramenta para construir o site
+
 -O google drive para salvar os documentos:https://drive.google.com/drive/u/0/folders/1UVQ2WoE4_k4iqu9Ew-AglrkF1EXQbN7T
+
 -O github para salvar e atualizar nossos codigos:https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/tree/master
 
 ## Personas
