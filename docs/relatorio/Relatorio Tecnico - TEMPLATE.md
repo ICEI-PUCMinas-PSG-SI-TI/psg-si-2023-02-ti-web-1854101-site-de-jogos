@@ -5,17 +5,18 @@ No Toxic Zone
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+> - Ana Clara Rocha Delfino
+> - André Oliveira Burle
+> - Davi Lima Gonzaga
+> - Diogo Duarte Xavier
+> - Lucas Guimarães Marques
+> - Luiz Ribeiro de Andrade
+> - Henrique Gonçalves Sousa
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
@@ -37,79 +38,40 @@ No Toxic Zone
   
 # Introdução
 
+Nas últimas décadas, os jogos se tornaram uma forma de entretenimento popular e amplamente apreciada. Seja em consoles, computadores ou dispositivos móveis, os jogos agradam a um público amplo, especialmente aos jovens. No entanto, esta popularidade não foi isenta de controvérsia. Uma das questões mais discutidas é a potencial toxicidade nos ambientes de jogo e o seu impacto nos jovens. Os jogos online podem criar um ambiente mais saudável e positivo para a comunidade de jogos, tornando a experiência de jogo mais agradável, reduzindo conflitos e promovendo a cooperação. . Em relação à questão da toxicidade que ainda existe em muitas comunidades de jogos, é importante que os jogadores individuais também façam a sua parte, respeitem os outros, denunciem comportamentos tóxicos e apoiem um ambiente de jogo positivo.
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
+O problema que estamos buscando resolver seria a toxidade do players nas comunidades de jogos  e  tentar  busca resolver um ambiente mais seguro . Muitas vezes, não há uma interação de players pois a comunidade é muito toxica , por isso estamos tentando promover um ambiente tranquilo para ajudar os usuários a fazerem amizades sem preocupaçoes  com toxidade ,ajudando o acesso e a busca por usuarios relevantes.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo e criar um site de informações onde o usuário  pode pesquisar suas duvidas com ferramentas de fácil acesso com as infomaçoes que o site fornece
+Como objetivos específicos, podemos ressaltar:
+-Permitir que denuncie o usuario 
+-Permitir que o usuário veja informações sobre o conteúdo e os players , 
+-Organizar o conteúdo em categorias para facilitar a procura do usuário.
+-Descobrir os requisitos mínimos para rodar determinado jogo em sua maquina.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+É estabelecido como público alvo deste site crianças e jovens, sejam homens ou mulheres entre 10 e 25 anos, no qual tenham tempo livre para desfrutar regularmente dos seus jogos e queiram conhecer novas pessoas e comunidades de jogadores que também compartilham seus mesmos gostos por games, e também que queiram denunciar práticas abusivas de outros jogadores.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+-Iremos utilizar o Visual Studio Code como ferramenta para construir o site
+-O google drive para salvar os documentos:https://drive.google.com/drive/u/0/folders/1UVQ2WoE4_k4iqu9Ew-AglrkF1EXQbN7T
+-O github para salvar e atualizar nossos codigos:https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/tree/master
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543)
 
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/cc5766e0-4382-43f7-8976-c9b50539dc95)
+
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/1aa8fbba-9bb1-4b45-80d9-20a7782dff03)
+
  
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
