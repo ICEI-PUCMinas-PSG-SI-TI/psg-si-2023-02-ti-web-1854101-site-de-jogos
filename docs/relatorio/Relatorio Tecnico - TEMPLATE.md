@@ -148,6 +148,10 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ![mapa](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/967f5085-6719-48f2-99a6-87bdb22859a0)
 
+# Design Thinking
+
+[DESIGN DOC.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/files/12705789/DESIGN.DOC.pdf)
+
 
 # Conclusões
 
