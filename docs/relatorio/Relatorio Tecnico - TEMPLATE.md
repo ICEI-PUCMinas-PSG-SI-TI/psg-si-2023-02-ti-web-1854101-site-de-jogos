@@ -103,22 +103,15 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Registro e Login de usuário | ALTA | 
-|RF-002| O site deve permitir que os usuários denunciem outras pessoas que tiveram ações questionáveis   | MÉDIA |
-|RF-003| Os usuários devem ser capazes de pesquisar outros membros do site  com base nos jogos favoritos e nome de usuário  | MÉDIA |
-|RF-004| O site deve contar com uma aba específica para o perfil do usuário   | ALTA |
-|RF-005| O site deve permitir que usuários adicionem uns aos outros  | MÉDIA |
-|RF-006| Os usuários devem conseguir selecionar os jogos favoritos para que eles apareçam no perfil   | MÉDIA |
-|RF-007| Junto de cada jogo deve-se acompanhar uma descrição junto com a classificação indicativa   | ALTA |
+|RF-01| Registro e Login de usuário | ALTA | 
+|RF-02| O site deve permitir que os usuários denunciem outras pessoas que tiveram ações questionáveis   | MÉDIA |
+|RF-03| Os usuários devem ser capazes de pesquisar outros membros do site  com base nos jogos favoritos e nome de usuário  | MÉDIA |
+|RF-04| O site deve contar com uma aba específica para o perfil do usuário   | ALTA |
+|RF-05| O site deve permitir que usuários adicionem uns aos outros  | MÉDIA |
+|RF-06| Os usuários devem conseguir selecionar os jogos favoritos para que eles apareçam no perfil   | MÉDIA |
+|RF-07| Junto de cada jogo deve-se acompanhar uma descrição junto com a classificação indicativa   | ALTA |
 
 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 # Projeto da Solução
 
