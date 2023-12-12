@@ -44,13 +44,16 @@ O problema que estamos buscando resolver seria a toxidade do players nas comunid
 O objetivo e criar um site de informações onde o usuário  pode pesquisar suas duvidas com ferramentas de fácil acesso com as infomaçoes que o site fornece
 Como objetivos específicos, podemos ressaltar:
 -Permitir que denuncie o usuario 
--Permitir que o usuário veja informações que os usuarios mandam de mensagem , 
+-Permitir que o usuário veja informações que os usuarios postam na aba de sugestões, 
 -Organizar infomações dos jogos.
 -Descobrir os requisitos mínimos para rodar determinado jogo em sua maquina.
+-O usuario poder personalizar seu perfil
+-Acessar biblioteca de jogos
+-melhorar a comunidade 
 
 ## Público-Alvo
 
-É estabelecido como público alvo deste site crianças e jovens, sejam homens ou mulheres entre 10 e 25 anos, no qual tenham tempo livre para desfrutar regularmente dos seus jogos e queiram conhecer novas pessoas e comunidades de jogadores que também compartilham seus mesmos gostos por games, e também que queiram denunciar práticas abusivas de outros jogadores.
+É estabelecido como público alvo deste site crianças e jovens, sejam homens ou mulheres entre 10 e 38 anos, no qual tenham tempo livre para desfrutar regularmente dos seus jogos e queiram conhecer novas pessoas e comunidades de jogadores que também compartilham seus mesmos gostos por games, e também que queiram denunciar práticas abusivas de outros jogadores.
  
 # Especificações do Projeto
 
@@ -84,7 +87,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Segurança da informação  | Denunciar jogadores tóxicos          | Ter uma comunidade mais limpa              |
 |Ciencista da Computação      | Postar mensagens               | Ser mais social e conhecer mais pessoas |
 |Estudante  | Aprimorar minhas habilidades nos jogos         | Conhecer players mais experientes para aprendizado             |
-
+|Psicologa | Garantir a saúde mental  |                        ter um ambiente estavél para jogar
+|Jornalista | Um ambiente para promover os jogos com suas lives |  ambiete que ajude a facilitar o trabalho sem preocupações|
+|Gerente | Consegir gerenciar seu tempo e não ficar viciado(a) | conseguir pesquisar  jogos calmos|
 
 ## Requisitos
 
