@@ -93,7 +93,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Estudante  | Aprimorar minhas habilidades nos jogos         | Conhecer players mais experientes para aprendizado             |
 |Psicologa | Garantir a saúde mental  |                        ter um ambiente estavél para jogar
 |Jornalista | Um ambiente para promover os jogos com suas lives |  ambiete que ajude a facilitar o trabalho sem preocupações|
-|Gerente | Consegir gerenciar seu tempo e não ficar viciado(a) | conseguir pesquisar  jogos calmos|
+|Gerente | Consegir gerenciar seu tempo e não ficar viciada em jogos | conseguir pesquisar  jogos calmos|
 
 ## Requisitos
 
