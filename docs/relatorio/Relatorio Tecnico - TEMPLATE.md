@@ -9,12 +9,7 @@ Análise e Desenvolvimento de Sistemas
 
 ## Participantes
 
-> - Ana Clara Rocha Delfino
-> - André Oliveira Burle
-> - Davi Lima Gonzaga
-> - Diogo Duarte Xavier
-> - Lucas Guimarães Marques
-> - Luiz Ribeiro de Andrade
+
 > - Henrique Gonçalves Sousa
 
 
@@ -49,8 +44,8 @@ O problema que estamos buscando resolver seria a toxidade do players nas comunid
 O objetivo e criar um site de informações onde o usuário  pode pesquisar suas duvidas com ferramentas de fácil acesso com as infomaçoes que o site fornece
 Como objetivos específicos, podemos ressaltar:
 -Permitir que denuncie o usuario 
--Permitir que o usuário veja informações sobre o conteúdo e os players , 
--Organizar o conteúdo em categorias para facilitar a procura do usuário.
+-Permitir que o usuário veja informações que os usuarios mandam de mensagem , 
+-Organizar infomações dos jogos.
 -Descobrir os requisitos mínimos para rodar determinado jogo em sua maquina.
 
 ## Público-Alvo
@@ -84,7 +79,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Segurança da informação  | Denunciar jogadores tóxicos          | Ter uma comunidade mais limpa              |
-|Ciencista da Computação      | Fazer amizades                 | Ser mais social e conhecer mais pessoas |
+|Ciencista da Computação      | Postar mensagens               | Ser mais social e conhecer mais pessoas |
 |Estudante  | Aprimorar minhas habilidades nos jogos         | Conhecer players mais experientes para aprendizado             |
 
 
@@ -97,11 +92,11 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| Registro e Login de usuário | ALTA | 
-|RF-02| O site deve permitir que os usuários denunciem outras pessoas que tiveram ações questionáveis   | MÉDIA |
-|RF-03| Os usuários devem ser capazes de pesquisar outros membros do site  com base nos jogos favoritos e nome de usuário  | MÉDIA |
+|RF-02| O site deve permitir que os usuários denunciem  usuarios   | MÉDIA |
+|RF-03| Os usuários devem ser capazes dar sugestões  | MÉDIA |
 |RF-04| O site deve contar com uma aba específica para o perfil do usuário   | ALTA |
-|RF-05| O site deve permitir que usuários adicionem uns aos outros  | MÉDIA |
-|RF-06| Os usuários devem conseguir selecionar os jogos favoritos para que eles apareçam no perfil   | MÉDIA |
+|RF-05| O site deve permitir que usuários adicionem fotos e nomes dos amigos  | MÉDIA |
+|RF-06| Os usuários devem conseguir selecionar fotos e nome dos jogos favoritos  apareça na aba de perfil  | MÉDIA |
 |RF-07| Junto de cada jogo deve-se acompanhar uma descrição junto com a classificação indicativa   | ALTA |
 
 
