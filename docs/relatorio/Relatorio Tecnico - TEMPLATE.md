@@ -3,6 +3,8 @@
 
 No Toxic Zone
 
+link do arquivo : https://trabalho-tiaw.rikutoshiki1505.repl.co/
+
 `CURSO` 
 
 Análise e Desenvolvimento de Sistemas
@@ -150,6 +152,15 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 # Design Thinking
 
 [DESIGN DOC.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/files/12705789/DESIGN.DOC.pdf)
+
+
+#Metodologia de Trabalho
+ Começamos programando usando html , css , js  fazendo a página de login e cadastro para os usuários poderem acessar a página, adicionando localstorage para armazenar os dados de login e cadastro.
+ Depois iniciamos a página de perfil pois assim que cadastrar tem que cair direto no perfil, o perfil tem o uso de local storage também pois tem que armazenar as imagens e as alterações de nome, e url de imanges.
+ Temos a biblioteca de jogos para armazenar os dados dos jogos adicionados a página e o do lado dos cards dos jogos tem os requisitos mínimos para o usuário conferir se a maquina dele roda tais jogos.
+ A pagina de sugestões foi uma forma que achamos dos usuários poderem iteragir com os moderadores do site, podendo deixar suas dúvidas e comentarios sobre o site.
+ E temos a pagina principal onde que os integrantes do site pode denunciar o nome dos usuários toxícos que afetam a comunidade
+
 
 
 # Conclusões
