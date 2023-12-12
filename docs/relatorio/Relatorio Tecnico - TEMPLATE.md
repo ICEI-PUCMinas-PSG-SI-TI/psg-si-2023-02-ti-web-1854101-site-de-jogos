@@ -86,7 +86,7 @@ Como objetivos específicos, podemos ressaltar:
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+| EU  COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |   PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Segurança da informação  | Denunciar jogadores tóxicos          | Ter uma comunidade mais limpa              |
 |Ciencista da Computação      | Postar mensagens               | Ser mais social e conhecer mais pessoas |
