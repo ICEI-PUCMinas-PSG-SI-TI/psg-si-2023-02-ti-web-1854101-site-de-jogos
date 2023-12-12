@@ -144,7 +144,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Mapa de navegação
 
-![mapa](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/967f5085-6719-48f2-99a6-87bdb22859a0)
+![Sem título](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/9d7465e9-bf86-478b-80f3-0ccf8852d7ad)
+
 
 # Design Thinking
 
