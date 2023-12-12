@@ -64,9 +64,11 @@ Como objetivos específicos, podemos ressaltar:
 -O github para salvar e atualizar nossos codigos:https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/tree/master
 
 ## Personas
-![image]([docs/relatorio/images/Gabriel.PNG))
-![image]([https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/master/docs/relatorio/images/Isabella.PNG))
-![image]([https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/master/docs/relatorio/images/Gabriel.PNG))
+![Gabriel](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/81f4c21d-ee57-4d37-893e-e0db66e6171a)
+
+![Isabella](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/9f64f5ac-c983-4a6d-800f-8280b0a007b9)
+
+![Luciana](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/d8b14164-0b8d-4452-ac89-118d4282f587)
 
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543)
 
