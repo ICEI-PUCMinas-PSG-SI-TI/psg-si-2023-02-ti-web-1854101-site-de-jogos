@@ -154,6 +154,13 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 [DESIGN DOC.pdf](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/files/12705789/DESIGN.DOC.pdf)
 
 
+
+
+
+
+
+
+----------------------
 #Metodologia de Trabalho
  Começamos programando usando html , css , js  fazendo a página de login e cadastro para os usuários poderem acessar a página, adicionando localstorage para armazenar os dados de login e cadastro.
  Depois iniciamos a página de perfil pois assim que cadastrar tem que cair direto no perfil, o perfil tem o uso de local storage também pois tem que armazenar as imagens e as alterações de nome, e url de imanges.
@@ -161,13 +168,21 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
  A pagina de sugestões foi uma forma que achamos dos usuários poderem iteragir com os moderadores do site, podendo deixar suas dúvidas e comentarios sobre o site.
  E temos a pagina principal onde que os integrantes do site pode denunciar o nome dos usuários tóxicos que afetam a comunidade
 
+------------------------
+
+
+
+
+
+
+---------------------
 #Soluções Implementada :
 
 Conseguir denunciar jogadores tóxicos.
 Os usuários conseguem ter mais liberdade no site.
 Biblioteca de jogos com facíl acesso.
 Desenvolvimento de artefatos com a possibilidade de ajudar a comunidade gamer.
-
+-----------------------
 
 # Conclusões
 
