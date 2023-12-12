@@ -61,7 +61,7 @@ Como objetivos específicos, podemos ressaltar:
 -O github para salvar e atualizar nossos codigos:https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/tree/master
 
 ## Personas
-![image]([https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/master/docs/relatorio/images/Luciana.PNG))
+![image]([docs/relatorio/images/Gabriel.PNG))
 ![image]([https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/master/docs/relatorio/images/Isabella.PNG))
 ![image]([https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/master/docs/relatorio/images/Gabriel.PNG))
 
@@ -96,7 +96,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|----|
 |RF-01| Registro e Login de usuário | ALTA | 
 |RF-02| O site deve permitir que os usuários denunciem  usuarios   | MÉDIA |
-|RF-03| Os usuários devem ser capazes dar sugestões  | MÉDIA |
+|RF-03| Os usuários devem ser capazes de dar sugestões  | MÉDIA |
 |RF-04| O site deve contar com uma aba específica para o perfil do usuário   | ALTA |
 |RF-05| O site deve permitir que usuários adicionem fotos e nomes dos amigos  | MÉDIA |
 |RF-06| Os usuários devem conseguir selecionar fotos e nome dos jogos favoritos  apareça na aba de perfil  | MÉDIA |
