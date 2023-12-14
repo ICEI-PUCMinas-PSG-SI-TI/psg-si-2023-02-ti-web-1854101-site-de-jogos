@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social</title>
+    <link rel="stylesheet" href="sugestoes.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="perfil.css">
+    </head>
+    <body>
+        <div class="header" id="header">
+            <button onclick="toggleSidebar()" class="btn_icon_header">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+                </svg>
+            </button>
+            <div class="logo_header">
+                <img src="imagem/Logo (1).png" alt="Logo" class="img_logo_header">
+            </div>
+            <div class="navigation_header" id="navigation_header">
+                <button onclick="toggleSidebar()" class="btn_icon_header">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                        <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                    </svg>
+                </button>
+               
+
+                <a href="login.html" class="active">Sair</a>
+                <a href="game.html">Games</a>
+                <a href="perifl.html">Perfil</a>
+                <a href="denucias.html">Denuncias</a>
+                <a  href="sugestoes.html">Sugestões</a>
+             
+                    <input type="search" placeholder="Buscar games,players..." id="Buscador" style="font-size: 14px;"/>
+                </a>
+            </div>
+        </div>
+
+        
+
+
+
+        <script>
+            var header           = document.getElementById('header');
+            var navigationHeader = document.getElementById('navigation_header');
+            var content          = document.getElementById('content');
+            var showSidebar      = false;
+        
+            function toggleSidebar()
+            {
+                showSidebar = !showSidebar;
+                if(showSidebar)
+                {
+                    navigationHeader.style.marginLeft = '-10vw';
+                    navigationHeader.style.animationName = 'showSidebar';
+                    content.style.filter = 'blur(2px)';
+                }
+                else
+                {
+                    navigationHeader.style.marginLeft = '-100vw';
+                    navigationHeader.style.animationName = '';
+                    content.style.filter = '';
+                }
+            }
+        
+            function closeSidebar()
+            {
+                if(showSidebar)
+                {
+                    showSidebar = true;
+                    toggleSidebar();
+                }
+            }
+        
+            window.addEventListener('resize', function(event) {
+                if(window.innerWidth > 768 && showSidebar) 
+                {  
+                    showSidebar = true;
+                    toggleSidebar();
+                }
+            });
+            
+            </script>
+
+
+
+
+<br>
+<div container>
+<div id="app">
+    <div class="profile col-12">
+      <img id="profileImage" src="default-profile-image.jpg" alt="img-fluid">
+      <div class="nome">
+      <h2 id="profileName">John Doe</h2></div>
+      <div>
+        <div class="modal-bottom col ">
+      <button id="editProfileButton">Editar Perfil</button></div>
+    </div>
+    </div>
+    <div id="editProfileModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <label for="newProfileImage">Nova Imagem de Perfil:</label>
+        <input type="file" id="newProfileImage" accept="image/*">
+        <label for="newProfileName">Novo Nome de Perfil:</label>
+        <input type="text" id="newProfileName">
+        <button id="saveChangesButton">Salvar Alterações</button>
+
+      <input type="text" id="userName" placeholder="">
+      <div class="container">
+        <div class="column">
+          <label for="gameName">Nome do Jogo:</label>
+          <input type="text" id="gameName" placeholder="Nome do Jogo">
+          <label for="gameImage">Imagem do Jogo (URL):</label>
+          <input type="text" id="gameImage" placeholder="URL da Imagem">
+          <button id="addGameButton">Adicionar Jogo</button>
+          <button id="removeGameButton">Remover Último Jogo</button>
+         
+        </div>
+        <div class="column">
+          <label for="friendName">Nome do Amigo:</label>
+          <input type="text" id="friendName" placeholder="Nome do Amigo">
+          <label for="friendImage">Imagem do Amigo (URL):</label>
+          <input type="text" id="friendImage" placeholder="URL da Imagem">
+          <button id="addFriendButton">Adicionar Amigo</button>
+          <button id="removeFriendButton">Remover Último Amigo</button>
+
+          
+     
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+
+  <div class="palavra"> 
+    
+  <div id="perfil-container" class="container">
+    <div id="jogos-container" class="column">
+        <div class="Jogos">
+            <h2>Jogos Favoritos</h2>        
+            <ul id="userGamesList"></ul>
+        </div>
+    </div>
+
+    <div id="amigos-container" class="column">
+        <div class="Amigos">
+        <h2>Amigos</h2>
+        <ul id="friendsList"></ul>
+    </div>
+    </div>
+</div>
+</div>
+<script src="perfil.js"></script>
+
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+ 
+        <script href="perfil.js"></script>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+        <div class="footer">
+            <img src="imagem/Logo (1).png" alt="logo">
+            <p>&copy; 2023 © COPYRIGHT 2023 - NO TOXIC ZONE S.A. TODOS OS DIREITOS RESERVADOS.</p>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    </body>
+</html>
