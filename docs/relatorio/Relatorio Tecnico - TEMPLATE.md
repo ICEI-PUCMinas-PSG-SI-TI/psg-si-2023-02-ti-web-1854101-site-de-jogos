@@ -67,7 +67,8 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Personas
 
-https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/master/docs/relatorio/images/Gabriel.PNG?raw=true
+docs/relatorio/images/Isabella (2).PNG
+
 
 https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/5b4fa5290cb022afbb4114d1b89f01c09f13130e/docs/relatorio/images/Isabella%20(2).PNG
 
