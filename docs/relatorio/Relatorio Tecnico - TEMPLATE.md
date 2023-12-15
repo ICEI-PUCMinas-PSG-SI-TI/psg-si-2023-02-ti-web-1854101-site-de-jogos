@@ -66,11 +66,9 @@ Como objetivos específicos, podemos ressaltar:
 -O github para salvar e atualizar nossos codigos:https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/tree/master
 
 ## Personas
+![Isabella (2)](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/ded32da7-8dae-402e-a052-3ae52d41425e)
 
-docs/relatorio/images/Isabella (2).PNG
-
-
-https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/blob/5b4fa5290cb022afbb4114d1b89f01c09f13130e/docs/relatorio/images/Isabella%20(2).PNG
+![Gabriel](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/71c17870-1ba4-4af8-9e83-3940c44c89de)
 
 ![Luciana](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/d8b14164-0b8d-4452-ac89-118d4282f587)
 
