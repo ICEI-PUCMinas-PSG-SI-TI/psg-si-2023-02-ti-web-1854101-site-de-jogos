@@ -40,7 +40,29 @@ Nas últimas décadas, os jogos se tornaram uma forma de entretenimento popular 
 
 ## Problema
 
-O problema que estamos buscando resolver seria a toxidade do players nas comunidades de jogos  e  tentar  busca resolver um ambiente mais seguro . Muitas vezes, não há uma interação de players pois a comunidade é muito toxica , por isso estamos tentando promover um ambiente tranquilo para ajudar os usuários a fazerem amizades sem preocupaçoes  com toxidade ,ajudando o acesso e a busca por usuarios relevantes.
+O problema que queremos resolver é a questão da toxicidade em jogos online, permitindo que nossos usuários bloqueiem players que ataquem contra a honra de outra pessoa, e em casos mais graves players que cometem crimes previstos no código penal, como racismo, homofobia, machismo, incitações ao suicídio, auto-mutilação, etc. Queremos que esses players denúnciados sejam expostos para que as pessoas naturalmente se afastem desse tipo de gente. Também queremos apresentar os requisitos minimos de cada jogo, para que as pessoas que estão pensando em comprar o jogo verifiquem se ele roda em seu computador.
+
+
+# Contexto do problema
+
+
+A toxicidade nos jogos online é cada dia mais crescente, não só no Brasil mas em toda a comunidade online espalhada pelo mundo e afeta cada vez mais os jovens (sejam eles adolescentes ou crianças), comprometendo a saúde mental de quem frequenta esses ambientes. Comportamentos violentos em jogos online podem impactar diretamente na autoestima da pessoa, além de gerar sentimentos de desvalorização e uso excessivo de telas. Muitos players associam a experiência de jogos online como desinteressante e até mesmo estressante. Parte disto se deve a experiência online, e principalmente os jogadores tóxicos, impedindo qualquer divertimento.A toxicidade em jogos on-line já foi confirmada por uma pesquisa realizada pela ONG Anti-Defamation League, em 2021, que apontou que 60% dos jogadores norte-americanos de 13 a 17 anos já sofreram algum tipo de assédio enquanto jogavam on-line.
+“Hoje em dia, mais velho, eu percebo o quanto o meio de games pode ser tóxico e fazer mal para crianças e adolescentes que ainda estão se desenvolvendo. Eu já errei e tenho buscado melhorar, fazendo críticas construtivas ao invés de xingar ou entrar em discussões desnecessárias”, diz Daniel “Daniels” Marcon, 27, que conhece bem o cenário digital onde comentários desagradáveis são constantes por já ter sido streamer de “LoL” pela INTZ. “Se o momento que deveria ser relaxante se tornar estressante, a melhor escolha seria jogar algo off-line, para conhecer novos ambientes e personagens”, sugere Daniels.
+Nos jogos nos quais não há nenhuma restrição para o que pode ser falado no chat, é muito comum que jogadores digam ofensas, façam ameaças, como de revelar informação pessoal, ou até mesmo de ataques físicos, ou reproduzam discurso de ódio. 
+Muitos jogadores reclamam que já sofreram de perseguição constante de usuários utilizando perfis falsos.  A streamer e jogadora profissional de jogos de luta mexicana conhecida como Anya, relata que em suas lives e em suas redes sociais recebe diversos comentários agressivos e sexistas.
+“Não acontece frequentemente, diria que é de três a quatro vezes por ano, mas algumas pessoas enviam mensagens privadas com ameaças de morte. [...] É sempre o mesmo tipo de argumento, eles perdem e querem dizer as coisas mais odiosas possíveis: Eu vou te encontrar e vou fazer isto com a sua mãe, eu sei onde você vive. Eles não sabem o que estão falando, apenas querem dizer qualquer coisa para me fazer mal.”
+Por causa de todo esse comportamento, os jovens vão cada vez mais sofrer, seja em forma de absorver para si próprio toda essa agressividade que recebem e gerando inseguranças para si mesmo, ou então passando pra frente toda essa violência para outras pessoas, tornando assim um ciclo vicioso de ódio e toxicidade.
+Referências:https://lunetas.com.br/a-toxicidade-nos-jogos-on-line-e-os-impactos-para-a-infancia/
+https://www.gameblast.com.br/2022/11/comportamentos-toxicos-jogos-online-relatos-causas-consequencias.html
+
+
+
+
+
+
+
+
+
 
 ## Objetivos
 
