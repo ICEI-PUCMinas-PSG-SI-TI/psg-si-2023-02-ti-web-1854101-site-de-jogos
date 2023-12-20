@@ -74,6 +74,7 @@ Como objetivos específicos, podemos ressaltar:
 ![Luciana](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/d8b14164-0b8d-4452-ac89-118d4282f587)
 
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543)
+![persona](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144119789/d5f27b70-00e0-4d37-ae06-4bb45a1bd4a7)
 
 
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/cc5766e0-4382-43f7-8976-c9b50539dc95)
