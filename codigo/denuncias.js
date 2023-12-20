@@ -1,4 +1,3 @@
-
 let denunciaId = 0; 
 
 
@@ -97,6 +96,59 @@ function selecionarOpcao(opcao) {
 }
 
 
+
+
+function selecionarMotivo(motivo) {
+    alert(`Usuário bloqueado por: ${motivo}`);
+   
+
+   
+    window.location.href = 'index.html';
+}
+
+
+
+
+
+
+
+
+
+
+function gerarIdDenuncia() {
+    
+    var username = document.getElementById('username').value;
+
+    
+    localStorage.setItem('username', username);
+
+  
+   
+}
+
+function denunciarUsuario() {
+    var username = localStorage.getItem('username');
+
+   
+    alert(`Usuário "${username}" foi denunciado`);
+
+   
+
+    
+    localStorage.removeItem('username');
+}
+
+
+function selecionarMotivo(motivo) {
+    var username = localStorage.getItem('username');
+    alert(`Usuário "${username}" bloqueado por: ${motivo}`);
+    
+
+    
+    window.location.href = 'index.html';
+
+    localStorage.removeItem('username');
+}
 
 
 
