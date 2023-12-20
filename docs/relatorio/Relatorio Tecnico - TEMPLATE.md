@@ -74,8 +74,8 @@ Como objetivos específicos, podemos ressaltar:
 ![Luciana](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144810624/d8b14164-0b8d-4452-ac89-118d4282f587)
 
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/747b3cee-3810-4edd-9a3b-8731cd06d543)
-![persona](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144119789/d5f27b70-00e0-4d37-ae06-4bb45a1bd4a7)
 
+![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-no-toxic-zone/assets/144119789/d5f27b70-00e0-4d37-ae06-4bb45a1bd4a7)
 
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/cc5766e0-4382-43f7-8976-c9b50539dc95)
 
@@ -103,16 +103,27 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| Registro e Login de usuário | ALTA | 
-|RF-02| O site deve permitir que os usuários denunciem  usuarios   | MÉDIA |
-|RF-03| Os usuários devem ser capazes de dar sugestões  | MÉDIA |
-|RF-04| O site deve contar com uma aba específica para o perfil do usuário   | ALTA |
-|RF-05| O site deve permitir que usuários adicionem fotos e nomes dos amigos  | MÉDIA |
-|RF-06| Os usuários devem conseguir selecionar fotos e nome dos jogos favoritos  apareça na aba de perfil  | MÉDIA |
-|RF-07| Junto de cada jogo deve-se acompanhar uma descrição junto com a classificação indicativa   | ALTA |
-
-
-
+|RF-01| Autenticação e Login | ALTA | 
+|RF-02| Denúncia de Comportamento Agressivo | MÉDIA |
+|RF-03| Bloqueio de Usuários | MÉDIA |
+|RF-04| Incluir requisitos mínimos de hardware para cada jogo   | ALTA |
+|RF-05| Manter uma lista de jogos disponíveis no site  | MÉDIA |
+|RF-06|Permitir que os usuários adicionem jogos aos seus favoritos | ALTA |
+|RF-07|Habilitar a remoção de jogos da lista de favoritos.| ALTA |
+|RF-08| Exibir a classificação etária de cada jogo, informando a faixa etária recomendada.  | ALTA |
+|RF-09|Criar uma página de perfil para cada usuário.| ALTA |
+|RF-10|Mostrar os jogos favoritados pelo usuário.| ALTA |
+|RF-11|Apresentar uma lista de outros usuários que favoritaram os mesmos jogos.| MÉDIA |
+|RNF-01|Garantir a segurança dos dados dos usuários e das informações das denúncias.| ALTA |
+|RNF-02|Implementar medidas para proteger informações sensíveis, como senhas e dados pessoais.| ALTA |
+|RNF-03|Garantir que o site seja responsivo e de carregamento rápido.| ALTA |
+|RNF-04|Otimizar o acesso à biblioteca de jogos para oferecer informações rapidamente.| MÉDIA |
+|RNF-05|Oferecer uma interface intuitiva e fácil de usar para os usuários.| ALTA |
+|RNF-06|Garantir a acessibilidade para diferentes dispositivos e navegadores.| ALTA |
+|RNF-07|Garantir que o site seja facilmente atualizado para incluir novos jogos e funcionalidades.| MÉDIA |
+|RNF-08|Assegurar que o sistema seja mantido e atualizado para corrigir possíveis problemas e bugs.| ALTA |
+|RNF-09|Respeitar as regulamentações de privacidade e diretrizes de classificação indicativa para os jogos.| ALTA |
+|RNF-10|Desenvolver o site de forma que possa crescer e suportar um número crescente de usuários.| ALTA |
 # Projeto da Solução
 
 - Canva
