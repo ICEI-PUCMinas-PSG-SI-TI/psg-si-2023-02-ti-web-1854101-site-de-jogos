@@ -80,7 +80,6 @@ Como objetivos específicos, podemos ressaltar:
 ![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/cc5766e0-4382-43f7-8976-c9b50539dc95)
 
 
-![image](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-site-de-jogos/assets/129188791/1aa8fbba-9bb1-4b45-80d9-20a7782dff03)
 
 
  
