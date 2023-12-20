@@ -13,6 +13,7 @@ Análise e Desenvolvimento de Sistemas
 
 
 > - Henrique Gonçalves Sousa
+> - André Oliveira Burle
 
 
 # Estrutura do Documento
@@ -88,12 +89,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 | EU  COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |   PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Segurança da informação  | Denunciar jogadores tóxicos          | Ter uma comunidade mais limpa              |
-|Ciencista da Computação      | Postar mensagens               | Ser mais social e conhecer mais pessoas |
-|Estudante  | Aprimorar minhas habilidades nos jogos         | Conhecer players mais experientes para aprendizado             |
-|Psicologa | Garantir a saúde mental  |                        ter um ambiente estavél para jogar
-|Jornalista | Um ambiente para promover os jogos com suas lives |  ambiete que ajude a facilitar o trabalho sem preocupações|
-|Gerente | Consegir gerenciar seu tempo e não ficar viciada em jogos | conseguir pesquisar  jogos calmos|
+|Advogado      | Ter acesso as sinopses dos jogos              | Descobrir quais jogos são interessantes e me agradam |
+|Segurança da informação  | Denunciar jogadores tóxicos          | Ter uma comunidade mais limpa    
+|Engenheiro |Saber os requisitos mínimos de um determinado jogo    | Verificar se meu computador vai conseguir rodar o jogo
+|Empresária |Saber a classificação indicativa de cada jogo |Ter conhecimento de tudo que meu filho menor de idade poderá jogar|
+|Policial militar |Favoritar os jogos  | Conseguir deixar salvo determinado jogo para não esquecer e poder pesquisar mais a respeito dele em outro horário|
 
 ## Requisitos
 
