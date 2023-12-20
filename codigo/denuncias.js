@@ -106,15 +106,6 @@ function selecionarMotivo(motivo) {
     window.location.href = 'index.html';
 }
 
-
-
-
-
-
-
-
-
-
 function gerarIdDenuncia() {
     
     var username = document.getElementById('username').value;
@@ -122,7 +113,6 @@ function gerarIdDenuncia() {
     
     localStorage.setItem('username', username);
 
-  
    
 }
 
@@ -142,13 +132,7 @@ function denunciarUsuario() {
 function selecionarMotivo(motivo) {
     var username = localStorage.getItem('username');
     alert(`Usuário "${username}" bloqueado por: ${motivo}`);
-    
-
-    
     window.location.href = 'index.html';
-
     localStorage.removeItem('username');
 }
-
-
 
